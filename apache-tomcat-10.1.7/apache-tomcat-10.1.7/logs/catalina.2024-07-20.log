@@ -1,0 +1,92 @@
+20-Jul-2024 13:47:09.873 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/10.1.7
+20-Jul-2024 13:47:09.878 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Feb 27 2023 20:25:27 UTC
+20-Jul-2024 13:47:09.878 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 10.1.7.0
+20-Jul-2024 13:47:09.878 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Linux
+20-Jul-2024 13:47:09.878 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            6.5.0-44-generic
+20-Jul-2024 13:47:09.878 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+20-Jul-2024 13:47:09.878 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             /usr/lib/jvm/java-17-openjdk-amd64
+20-Jul-2024 13:47:09.879 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           17.0.11+9-Ubuntu-123.10.1
+20-Jul-2024 13:47:09.879 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Ubuntu
+20-Jul-2024 13:47:09.879 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         /media/user/C6CADA52CADA3E7D/desktop/apache-tomcat-10.1.7
+20-Jul-2024 13:47:09.879 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         /media/user/C6CADA52CADA3E7D/desktop/apache-tomcat-10.1.7
+20-Jul-2024 13:47:09.892 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=/media/user/C6CADA52CADA3E7D/desktop/apache-tomcat-10.1.7/conf/logging.properties
+20-Jul-2024 13:47:09.892 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+20-Jul-2024 13:47:09.892 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+20-Jul-2024 13:47:09.892 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+20-Jul-2024 13:47:09.893 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dorg.apache.catalina.security.SecurityListener.UMASK=0027
+20-Jul-2024 13:47:09.893 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+20-Jul-2024 13:47:09.893 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+20-Jul-2024 13:47:09.893 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+20-Jul-2024 13:47:09.893 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+20-Jul-2024 13:47:09.893 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+20-Jul-2024 13:47:09.893 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=/media/user/C6CADA52CADA3E7D/desktop/apache-tomcat-10.1.7
+20-Jul-2024 13:47:09.893 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=/media/user/C6CADA52CADA3E7D/desktop/apache-tomcat-10.1.7
+20-Jul-2024 13:47:09.894 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=/media/user/C6CADA52CADA3E7D/desktop/apache-tomcat-10.1.7/temp
+20-Jul-2024 13:47:09.895 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [/usr/java/packages/lib:/usr/lib/x86_64-linux-gnu/jni:/lib/x86_64-linux-gnu:/usr/lib/x86_64-linux-gnu:/usr/lib/jni:/lib:/usr/lib]
+20-Jul-2024 13:47:10.184 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+20-Jul-2024 13:47:10.231 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [537] milliseconds
+20-Jul-2024 13:47:10.268 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+20-Jul-2024 13:47:10.268 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/10.1.7]
+20-Jul-2024 13:47:10.293 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/media/user/C6CADA52CADA3E7D/desktop/apache-tomcat-10.1.7/webapps/docs]
+20-Jul-2024 13:47:10.646 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/media/user/C6CADA52CADA3E7D/desktop/apache-tomcat-10.1.7/webapps/docs] has finished in [352] ms
+20-Jul-2024 13:47:10.646 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/media/user/C6CADA52CADA3E7D/desktop/apache-tomcat-10.1.7/webapps/examples]
+20-Jul-2024 13:47:10.884 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/media/user/C6CADA52CADA3E7D/desktop/apache-tomcat-10.1.7/webapps/examples] has finished in [237] ms
+20-Jul-2024 13:47:10.884 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/media/user/C6CADA52CADA3E7D/desktop/apache-tomcat-10.1.7/webapps/host-manager]
+20-Jul-2024 13:47:10.927 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/media/user/C6CADA52CADA3E7D/desktop/apache-tomcat-10.1.7/webapps/host-manager] has finished in [43] ms
+20-Jul-2024 13:47:10.927 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/media/user/C6CADA52CADA3E7D/desktop/apache-tomcat-10.1.7/webapps/manager]
+20-Jul-2024 13:47:10.953 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/media/user/C6CADA52CADA3E7D/desktop/apache-tomcat-10.1.7/webapps/manager] has finished in [26] ms
+20-Jul-2024 13:47:10.953 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/media/user/C6CADA52CADA3E7D/desktop/apache-tomcat-10.1.7/webapps/ROOT]
+20-Jul-2024 13:47:10.989 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/media/user/C6CADA52CADA3E7D/desktop/apache-tomcat-10.1.7/webapps/ROOT] has finished in [36] ms
+20-Jul-2024 13:47:10.992 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+20-Jul-2024 13:47:11.004 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [772] milliseconds
+20-Jul-2024 13:48:25.689 INFO [main] org.apache.catalina.core.StandardServer.await A valid shutdown command was received via the shutdown port. Stopping the Server instance.
+20-Jul-2024 13:48:25.690 INFO [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+20-Jul-2024 13:48:25.692 INFO [main] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+20-Jul-2024 13:48:25.710 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+20-Jul-2024 13:48:25.715 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+20-Jul-2024 17:39:35.686 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/10.1.7
+20-Jul-2024 17:39:35.690 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Feb 27 2023 20:25:27 UTC
+20-Jul-2024 17:39:35.690 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 10.1.7.0
+20-Jul-2024 17:39:35.690 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Linux
+20-Jul-2024 17:39:35.690 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            6.5.0-44-generic
+20-Jul-2024 17:39:35.690 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+20-Jul-2024 17:39:35.690 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             /usr/lib/jvm/java-17-openjdk-amd64
+20-Jul-2024 17:39:35.690 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           17.0.11+9-Ubuntu-123.10.1
+20-Jul-2024 17:39:35.691 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Ubuntu
+20-Jul-2024 17:39:35.691 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         /media/user/C6CADA52CADA3E7D/desktop/apache-tomcat-10.1.7
+20-Jul-2024 17:39:35.691 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         /media/user/C6CADA52CADA3E7D/desktop/apache-tomcat-10.1.7
+20-Jul-2024 17:39:35.698 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=/media/user/C6CADA52CADA3E7D/desktop/apache-tomcat-10.1.7/conf/logging.properties
+20-Jul-2024 17:39:35.698 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+20-Jul-2024 17:39:35.698 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+20-Jul-2024 17:39:35.698 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+20-Jul-2024 17:39:35.699 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dorg.apache.catalina.security.SecurityListener.UMASK=0027
+20-Jul-2024 17:39:35.699 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+20-Jul-2024 17:39:35.699 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+20-Jul-2024 17:39:35.699 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+20-Jul-2024 17:39:35.699 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+20-Jul-2024 17:39:35.699 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+20-Jul-2024 17:39:35.699 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=/media/user/C6CADA52CADA3E7D/desktop/apache-tomcat-10.1.7
+20-Jul-2024 17:39:35.699 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=/media/user/C6CADA52CADA3E7D/desktop/apache-tomcat-10.1.7
+20-Jul-2024 17:39:35.699 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=/media/user/C6CADA52CADA3E7D/desktop/apache-tomcat-10.1.7/temp
+20-Jul-2024 17:39:35.700 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [/usr/java/packages/lib:/usr/lib/x86_64-linux-gnu/jni:/lib/x86_64-linux-gnu:/usr/lib/x86_64-linux-gnu:/usr/lib/jni:/lib:/usr/lib]
+20-Jul-2024 17:39:35.936 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+20-Jul-2024 17:39:35.956 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [423] milliseconds
+20-Jul-2024 17:39:35.987 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+20-Jul-2024 17:39:35.987 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/10.1.7]
+20-Jul-2024 17:39:35.994 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/media/user/C6CADA52CADA3E7D/desktop/apache-tomcat-10.1.7/webapps/docs]
+20-Jul-2024 17:39:36.268 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/media/user/C6CADA52CADA3E7D/desktop/apache-tomcat-10.1.7/webapps/docs] has finished in [273] ms
+20-Jul-2024 17:39:36.268 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/media/user/C6CADA52CADA3E7D/desktop/apache-tomcat-10.1.7/webapps/examples]
+20-Jul-2024 17:39:36.445 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/media/user/C6CADA52CADA3E7D/desktop/apache-tomcat-10.1.7/webapps/examples] has finished in [177] ms
+20-Jul-2024 17:39:36.445 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/media/user/C6CADA52CADA3E7D/desktop/apache-tomcat-10.1.7/webapps/host-manager]
+20-Jul-2024 17:39:36.473 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/media/user/C6CADA52CADA3E7D/desktop/apache-tomcat-10.1.7/webapps/host-manager] has finished in [27] ms
+20-Jul-2024 17:39:36.473 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/media/user/C6CADA52CADA3E7D/desktop/apache-tomcat-10.1.7/webapps/manager]
+20-Jul-2024 17:39:36.490 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/media/user/C6CADA52CADA3E7D/desktop/apache-tomcat-10.1.7/webapps/manager] has finished in [17] ms
+20-Jul-2024 17:39:36.491 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/media/user/C6CADA52CADA3E7D/desktop/apache-tomcat-10.1.7/webapps/ROOT]
+20-Jul-2024 17:39:36.505 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/media/user/C6CADA52CADA3E7D/desktop/apache-tomcat-10.1.7/webapps/ROOT] has finished in [14] ms
+20-Jul-2024 17:39:36.508 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+20-Jul-2024 17:39:36.518 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [562] milliseconds
+20-Jul-2024 17:40:12.969 INFO [main] org.apache.catalina.core.StandardServer.await A valid shutdown command was received via the shutdown port. Stopping the Server instance.
+20-Jul-2024 17:40:12.970 INFO [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+20-Jul-2024 17:40:12.972 INFO [main] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+20-Jul-2024 17:40:12.987 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+20-Jul-2024 17:40:12.994 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
